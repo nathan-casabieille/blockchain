@@ -1,0 +1,11 @@
+const { ethers } = require("ethers");
+const wallet = ethers.Wallet.createRandom();
+console.log("----------------------------------------------------");
+console.log("✅ NEW ADMIN ACCOUNT GENERATED");
+console.log("----------------------------------------------------");
+console.log(`Address:     ${wallet.address}`);
+console.log(`Private Key: ${wallet.privateKey}`);
+console.log("----------------------------------------------------");
+console.log("👉 SAVE THIS PRIVATE KEY SECURELY!");
+console.log("👉 Add it to your .env file as: PRIVATE_KEY=...");
+console.log("----------------------------------------------------");
