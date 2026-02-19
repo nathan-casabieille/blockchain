@@ -1,0 +1,30 @@
+{
+  "artFloor": "0.001",
+  "priceHistory": [
+    { "time": "00:00", "price": "0.00985", "fullDate": "" },
+    { "time": "01:00", "price": "0.00992", "fullDate": "" },
+    { "time": "02:00", "price": "0.00988", "fullDate": "" },
+    { "time": "03:00", "price": "0.00995", "fullDate": "" },
+    { "time": "04:00", "price": "0.00998", "fullDate": "" },
+    { "time": "05:00", "price": "0.01002", "fullDate": "" },
+    { "time": "06:00", "price": "0.00997", "fullDate": "" },
+    { "time": "07:00", "price": "0.01005", "fullDate": "" },
+    { "time": "08:00", "price": "0.01008", "fullDate": "" },
+    { "time": "09:00", "price": "0.01012", "fullDate": "" },
+    { "time": "10:00", "price": "0.01006", "fullDate": "" },
+    { "time": "11:00", "price": "0.01004", "fullDate": "" },
+    { "time": "12:00", "price": "0.01000", "fullDate": "" },
+    { "time": "13:00", "price": "0.00996", "fullDate": "" },
+    { "time": "14:00", "price": "0.00999", "fullDate": "" },
+    { "time": "15:00", "price": "0.01001", "fullDate": "" },
+    { "time": "16:00", "price": "0.00998", "fullDate": "" },
+    { "time": "17:00", "price": "0.01003", "fullDate": "" },
+    { "time": "18:00", "price": "0.01007", "fullDate": "" },
+    { "time": "19:00", "price": "0.01005", "fullDate": "" },
+    { "time": "20:00", "price": "0.01002", "fullDate": "" },
+    { "time": "21:00", "price": "0.00999", "fullDate": "" },
+    { "time": "22:00", "price": "0.01000", "fullDate": "" },
+    { "time": "23:00", "price": "0.01001", "fullDate": "" },
+    { "time": "24:00", "price": "0.01", "fullDate": "" }
+  ]
+}
